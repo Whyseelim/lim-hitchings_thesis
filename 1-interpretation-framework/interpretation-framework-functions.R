@@ -152,6 +152,11 @@ write_cpt_t = function (vector_t){
   return(cpt_vector)
 }
 
+into_t_list = function(vector){
+  list = rep(list(vector), 4)
+  return(list)
+}
+
 # Build T
 build_T = function(n, gamma_prime, cpts){
   #Create node strings for each target fiber and dependencies
@@ -332,3 +337,4 @@ get_LR_direct = function (bn, evidence){
 }
 
 
+save.image(file = "../inter-framework-functions.RData")
