@@ -6,9 +6,11 @@ The files are structured into their appropriate publications. In order, they are
 
 https://doi.org/10.1016/j.forsciint.2024.112086
 
-2-acquistion-study
+2-home-environment
 
-3-trasnfer-study
+https://doi.org/10.1016/j.forsciint.2025.112562
+
+3-transfer
 
 https://doi.org/10.1016/j.forsciint.2025.112547
 

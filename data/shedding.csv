@@ -1,0 +1,13 @@
+item,target,shedding 1,shedding 2,shedding 3,shedding 4,shedding 5,use,periodic,storage
+01_item_01,blue_synthetic_01,25,9,5,12,4,high,FALSE,open
+01_item_04,red_synthetic_01,18,21,22,15,20,low,FALSE,open
+01_item_06,purple_cotton_01,72,93,81,89,67,high,TRUE,closed
+04_item_01,blue_synthetic_04,62,29,71,65,32,high,FALSE,open
+05_item_07,blue_animal_05,44,47,25,33,24,low,TRUE,closed
+05_item_03,red_animal_05,9,7,9,12,6,high,FALSE,open
+14_item_02,blue_animal_14,21,34,18,27,20,low,FALSE,closed
+14_item_02,black_animal_14,14,26,26,12,15,low,FALSE,closed
+14_item_03,red_animal_14,13,17,16,10,16,high,FALSE,closed
+15_item_03,green_cotton_15,90,86,89,84,98,low,FALSE,together
+15_item_01,purple_cotton_15,45,32,39,63,57,low,FALSE,together
+15_item_04,yellow_cotton_15,12,82,23,24,29,low,FALSE,together
